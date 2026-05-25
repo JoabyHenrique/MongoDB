@@ -21,3 +21,6 @@ Abra seu terminal e execute o seguinte comando:
 ```bash
 pip install pymongo redis
 
+# Problemas enventuais e Dificuldades Encontradas
+* Durante o desenvolvimento, a principal dificuldade foi configurar corretamente as variáveis de ambiente no terminal Windows (PowerShell) para garantir que as senhas e URIs dos bancos não ficassem expostas no código-fonte. Além disso, houve um pequeno desafio ao resolver um conflito de merge (Merge Conflict) no Git durante o envio dos arquivos, que foi solucionado mesclando as versões locais e remotas.
+
