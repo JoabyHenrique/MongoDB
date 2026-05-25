@@ -20,3 +20,4 @@ Abra seu terminal e execute o seguinte comando:
 
 ```bash
 pip install pymongo redis
+
