@@ -9,7 +9,7 @@ Este projeto demonstra a conexão de um script Python a bancos de dados NoSQL, r
 * Cache Integrado: Função que busca produto por nome e utiliza a chave `produto:{nome}` no Redis com TTL de 60 segundos antes de buscar no MongoDB.
 
 # Problemas enventuais e Dificuldades Encontradas
-* Durante o desenvolvimento, a principal dificuldade foi configurar corretamente as variáveis de ambiente no terminal Windows (PowerShell) para garantir que as senhas e URIs dos bancos não ficassem expostas no código-fonte. Além disso, houve um pequeno desafio ao resolver um conflito de merge (Merge Conflict) no Git durante o envio dos arquivos, que foi solucionado mesclando as versões locais e remotas.
+* Durante o desenvolvimento, a principal dificuldade foi configurar corretamente as variáveis de ambiente no terminal Windows (PowerShell) e do meu VsCode , para garantir que as senhas e URIs dos bancos não ficassem expostas no código-fonte. Além disso, houve um pequeno desafio ao resolver um conflito de merge (Merge Conflict) no Git durante o envio dos arquivos, que foi solucionado mesclando as versões locais e remotas.
   
 # Tecnologias Utilizadas e Dependências
 * Python 3.8+
