@@ -1,3 +1,5 @@
+* Aluno: Joaby Henrique
+
 # Integração Python com NoSQL (MongoDB e Redis)
 
 Este projeto demonstra a conexão de um script Python a bancos de dados NoSQL, realizando operações CRUD em uma instância do MongoDB Atlas e utilizando o Redis Cloud para um sistema de cache simples.
